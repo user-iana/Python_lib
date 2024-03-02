@@ -14,5 +14,5 @@ setup(
         "Operating System :: OS Independent",
     ],
 
-    entry_points={"console_scripts": ["py_first_ever_lib = py_first_ever_lib.main:download"]},
+    entry_points={"console_scripts": ["py_first_ever_lib = py_first_ever_lib.main:main"]},
 )
